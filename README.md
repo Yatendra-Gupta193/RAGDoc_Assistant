@@ -1,4 +1,4 @@
-﻿# 🤖 RAGDoc Assistant  
+﻿# 🤖 RAGDoc Assistant   
 
 An AI-powered **Retrieval-Augmented Generation (RAG)** Document Assistant that allows users to upload PDF, DOCX, and TXT files and ask questions in natural language. The application retrieves relevant document content using semantic search and generates accurate answers with **Google Gemini AI** while displaying reference sources.
 
